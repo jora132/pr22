@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".Frragments.FourthFragment">
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="match_parent"
+        android:layout_height="283dp"
+        android:src="@drawable/shakotan" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Буквально — «низкий автомобиль». С учётом того, что в Японии тюнинг и занижение это практически синонимы, этим термином можно щеголять при виде любой доработанной JDM-машины (устойчивая аббревиатура от japanese domestic market — японский внутренний рынок) и не ошибиться. Поэтому любой «шакотан», в зависимости от иных, кроме «дропа», доработок, скорее всего, принадлежит к какому-либо более узкому направлению. Например, hella flush, которое предусматривает экстремальное занижение и резину, натянутую «домиком» на разваленные тем же самым домиком колёса. Вот на фотографии выше — вполне себе добротный hella flush! Термин это хоть изначально не японский, но очень японцами любимый." />
+</LinearLayout>

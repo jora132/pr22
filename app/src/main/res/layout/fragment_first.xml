@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Frragments.FirstFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/dekotora" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Происходит от английского «decoration truck» — украшенный грузовик. Хром, лампочки, много. Вот что такое «декотора» в трёх словах. Это движение появилось в 70-е годы в среде японских водил, которые возили рыбу. Они как чинили, так и украшали свои машины всем, что попадалось под руку. Сейчас на грузовики устанавливаются блестящие панели, неоновые, светодиодные и прочие лампы в таком количестве, какое позволит фантазия, бюджет и инженерные возможности владельца. После чего всё подключается, раскрашивается и демонстрируется как на дорогах, так и на специальных тусовках и выставках. По окончании тюнинга внешние габариты грузовика увеличиваются настолько, что его можно принять за тягач. Но нет — эта культура охватывает только среднеразмерный коммерческий транспорт или, в качестве исключения, лёгкую развозную технику вроде нашей Газели." />
+
+</LinearLayout>

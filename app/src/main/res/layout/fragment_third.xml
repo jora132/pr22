@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Frragments.ThirdFragment">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/bosozoku" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bosozoku — символ подпольной автомобильной культуры Страны восходящего солнца, но термин это немного неверный. В буквальном переводе он означает «жестокая банда» и изначально относится к культуре байкеров-отморозков. Автомобили подобных «гангстеров» называются, соответственно zokusha (слово sha по-японски означает «автомобиль»), а сами они в рамках субкультуры именуются «гонщики автострад» или kaido-racers. Автомобили как правило низкие и очень громкие, с агрессивными обвесами и слепяще-яркими разноцветными фарами, так как ездят такие «зоку» в основном по ночам. Чаще всего за основу берутся различные «маркообразные», но встречаются и «Скайлайны», и «Селики», и Датсуны, а иногда модель из-за масштабов доработок становятся загадкой даже для знатоков. Как типичные стритрейсеры, эти ребята любят собраться на ночной парковке, порычать моторами и дрифтануть на пустом перекрёстке." />
+</LinearLayout>

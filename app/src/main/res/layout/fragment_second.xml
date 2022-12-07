@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Frragments.SecondFragment">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="282dp"
+        android:src="@drawable/itasha" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Изначально этот молодой стиль тюнинга зародился среди otaku — повёрнутых на манге (комиксах) и аниме (мультфильмах) японцев. Они начали украшать свои автомобили соответствующими рисунками и аксессуарами, и иногда этот фетиш доходит до того, что яркие цветные сюжеты с японскими школьницами наносятся даже на боковины шин, а на номерные рамки вешаются женские трусики-бикини. Позже культура itasha буквально взорвала японскую автоспортивную тусовку — сочетание брутальности гоночного «корча» и няшности девочек-«тян» умиляет как зрителей, так и владельцев болидов. Да и коммерческие отношения владельцев команд со спонсорами на этой почве можно выстроить вполне себе «кавайно»." />
+</LinearLayout>
